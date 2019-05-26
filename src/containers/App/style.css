@@ -1,0 +1,26 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+    color: #3c3c3c;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+button {
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+    color: #3c3c3c;
+}
+
+input {
+    color: #3c3c3c;
+}
+
+input::placeholder {
+    color: #565656;
+    font-weight: 400;
+    opacity: 1;
+    font-size: 14px;
+}

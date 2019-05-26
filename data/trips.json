@@ -1,0 +1,270 @@
+{
+  "trips": [
+    {
+      "id": 3,
+      "countries": "Portugal",
+      "cities": "Lisbon, Penishe",
+      "months": "summer",
+      "countriesList": [],
+      "citiesList": [],
+      "placesList": []
+    },
+    {
+      "id": 4,
+      "countries": "Maldives",
+      "cities": "",
+      "months": "autumn",
+      "countriesList": [],
+      "citiesList": [],
+      "placesList": []
+    },
+    {
+      "id": "b2123e60-7d17-11e8-ae3e-071bbb482c69",
+      "months": "всегда",
+      "title": "Поездка 1",
+      "countries": "Россия",
+      "cities": "Москва, Самара",
+      "countriesList": [
+        "bafc5920-7d17-11e8-ae3e-071bbb482c69"
+      ],
+      "citiesList": [
+        "bf7a6730-7d17-11e8-ae3e-071bbb482c69",
+        "cfe8a410-7d17-11e8-ae3e-071bbb482c69"
+      ],
+      "placesList": [
+        "c9bf7e10-7d17-11e8-ae3e-071bbb482c69",
+        "d44c9a70-7d17-11e8-ae3e-071bbb482c69"
+      ]
+    },
+    {
+      "id": "7a5ad490-7dd1-11e8-89ee-8b9dd883a845",
+      "months": "лето",
+      "title": "Поездка 2",
+      "countries": "Португалия, Испания",
+      "cities": "Лиссабонttt, Пенише, Барселона",
+      "countriesList": [
+        "84e97790-7dd1-11e8-89ee-8b9dd883a845",
+        "be3129d0-7dd1-11e8-89ee-8b9dd883a845"
+      ],
+      "citiesList": [
+        "87ee7a30-7dd1-11e8-89ee-8b9dd883a845",
+        "a26d7780-7dd1-11e8-89ee-8b9dd883a845",
+        "c0c430c0-7dd1-11e8-89ee-8b9dd883a845"
+      ],
+      "placesList": [
+        "9711e790-7dd1-11e8-89ee-8b9dd883a845",
+        "b2e06f50-7dd1-11e8-89ee-8b9dd883a845"
+      ]
+    },
+    {
+      "id": "c6f39f90-7f56-11e8-923b-51f85a2b6163",
+      "months": "зима",
+      "title": "поездка",
+      "countries": "Россия, Черногория",
+      "cities": "Город 1",
+      "countriesList": [
+        "cee8abf0-7f56-11e8-923b-51f85a2b6163",
+        "cf853a10-7f56-11e8-923b-51f85a2b6163"
+      ],
+      "citiesList": [
+        "d884ffb0-7f56-11e8-923b-51f85a2b6163"
+      ],
+      "placesList": [
+        "f3555150-7f56-11e8-923b-51f85a2b6163"
+      ]
+    }
+  ],
+  "posters": [
+    {
+      "country": "tunisia",
+      "url": "https://www.tourprom.ru/site_media/images/upload/2018/2/22/newsphoto/tunis-1.jpeg"
+    },
+    {
+      "country": "thailand",
+      "url": "http://static.asiawebdirect.com/m/phuket/portals/phuket-com/shared/teasersL/TOP10/10-best-tours/teaserMultiLarge/imageHilight/best-tours-phuket-L.jpg"
+    },
+    {
+      "country": "maldives",
+      "url": "https://djdo2py1q6zlg.cloudfront.net/magazine/wp-content/uploads/2013/10/maldives-bungalow-four-seasons.jpg"
+    },
+    {
+      "country": "portugal",
+      "url": "https://cdn.tourradar.com/s3/tour/original/51328_0b53b2.jpg"
+    },
+    {
+      "country": "россия",
+      "url": "http://review-planet.ru/wp-content/uploads/2015/04/review-planet.ru9_.jpg"
+    }
+  ],
+  "places": [
+    {
+      "id": "c9bf7e10-7d17-11e8-ae3e-071bbb482c69",
+      "name": "Красная площадь",
+      "schedule": "",
+      "cost": "",
+      "way": "",
+      "details": "",
+      "cityId": "bf7a6730-7d17-11e8-ae3e-071bbb482c69"
+    },
+    {
+      "id": "d44c9a70-7d17-11e8-ae3e-071bbb482c69",
+      "name": "Набережная",
+      "schedule": "",
+      "cost": "",
+      "way": "",
+      "details": "",
+      "cityId": "cfe8a410-7d17-11e8-ae3e-071bbb482c69"
+    },
+    {
+      "id": "9711e790-7dd1-11e8-89ee-8b9dd883a845",
+      "cityId": "87ee7a30-7dd1-11e8-89ee-8b9dd883a845",
+      "name": "место 1",
+      "cost": "0",
+      "schedule": "всегда",
+      "way": "пешком",
+      "details": "клевое место"
+    },
+    {
+      "id": "b2e06f50-7dd1-11e8-89ee-8b9dd883a845",
+      "cityId": "a26d7780-7dd1-11e8-89ee-8b9dd883a845",
+      "name": "океан",
+      "schedule": "круглосуточно",
+      "details": "серфинг"
+    },
+    {
+      "id": "68a40290-7e07-11e8-89e6-bf68567404f1",
+      "cityId": "41410090-7e07-11e8-89e6-bf68567404f1",
+      "name": "Место 1"
+    },
+    {
+      "id": "2f5b7cc0-7f56-11e8-923b-51f85a2b6163",
+      "cityId": "2c2d4740-7f56-11e8-923b-51f85a2b6163"
+    },
+    {
+      "id": "30a2c9d0-7f56-11e8-923b-51f85a2b6163",
+      "cityId": "2c2d4740-7f56-11e8-923b-51f85a2b6163"
+    },
+    {
+      "id": "f3555150-7f56-11e8-923b-51f85a2b6163",
+      "cityId": "d884ffb0-7f56-11e8-923b-51f85a2b6163",
+      "name": "место 1",
+      "schedule": "ывфвфы"
+    }
+  ],
+  "cities": [
+    {
+      "id": "bf7a6730-7d17-11e8-ae3e-071bbb482c69",
+      "name": "Москва",
+      "days": "",
+      "way": "",
+      "costTickets": "",
+      "costHotels": "",
+      "countryId": "bafc5920-7d17-11e8-ae3e-071bbb482c69"
+    },
+    {
+      "id": "cfe8a410-7d17-11e8-ae3e-071bbb482c69",
+      "name": "Самара",
+      "days": "",
+      "way": "",
+      "costTickets": "",
+      "costHotels": "",
+      "countryId": "bafc5920-7d17-11e8-ae3e-071bbb482c69"
+    },
+    {
+      "id": "87ee7a30-7dd1-11e8-89ee-8b9dd883a845",
+      "countryId": "84e97790-7dd1-11e8-89ee-8b9dd883a845",
+      "name": "Лиссабонttt",
+      "days": "2",
+      "way": "на самолете",
+      "costTickets": "20000",
+      "costHotels": "10000"
+    },
+    {
+      "id": "a26d7780-7dd1-11e8-89ee-8b9dd883a845",
+      "countryId": "84e97790-7dd1-11e8-89ee-8b9dd883a845",
+      "name": "Пенише",
+      "days": "30",
+      "way": "на велосипеде ехать 2 часа",
+      "costTickets": "0",
+      "costHotels": "20000"
+    },
+    {
+      "id": "c0c430c0-7dd1-11e8-89ee-8b9dd883a845",
+      "countryId": "be3129d0-7dd1-11e8-89ee-8b9dd883a845",
+      "name": "Барселона",
+      "days": "10",
+      "way": "автобус"
+    },
+    {
+      "id": "3da84970-7e07-11e8-89e6-bf68567404f1",
+      "countryId": "36d575f0-7e07-11e8-89e6-bf68567404f1",
+      "name": "Город 1"
+    },
+    {
+      "id": "3fbd1fb0-7e07-11e8-89e6-bf68567404f1",
+      "countryId": "36d575f0-7e07-11e8-89e6-bf68567404f1",
+      "name": "Город 2"
+    },
+    {
+      "id": "41410090-7e07-11e8-89e6-bf68567404f1",
+      "countryId": "36d575f0-7e07-11e8-89e6-bf68567404f1",
+      "name": "Город 3"
+    },
+    {
+      "id": "2b95c230-7f56-11e8-923b-51f85a2b6163",
+      "countryId": "284055a0-7f56-11e8-923b-51f85a2b6163"
+    },
+    {
+      "id": "2c2d4740-7f56-11e8-923b-51f85a2b6163",
+      "countryId": "284055a0-7f56-11e8-923b-51f85a2b6163",
+      "name": "ывяыяв"
+    },
+    {
+      "id": "d884ffb0-7f56-11e8-923b-51f85a2b6163",
+      "countryId": "cee8abf0-7f56-11e8-923b-51f85a2b6163",
+      "name": "Город 1"
+    }
+  ],
+  "countries": [
+    {
+      "id": "bafc5920-7d17-11e8-ae3e-071bbb482c69",
+      "name": "Россия"
+    },
+    {
+      "id": "84e97790-7dd1-11e8-89ee-8b9dd883a845",
+      "name": "Португалия"
+    },
+    {
+      "id": "be3129d0-7dd1-11e8-89ee-8b9dd883a845",
+      "name": "Испания"
+    },
+    {
+      "id": "335528d0-7e07-11e8-89e6-bf68567404f1",
+      "name": "Россияяяя"
+    },
+    {
+      "id": "36d575f0-7e07-11e8-89e6-bf68567404f1",
+      "name": "Грузия"
+    },
+    {
+      "id": "26ecac80-7f56-11e8-923b-51f85a2b6163",
+      "name": ""
+    },
+    {
+      "id": "27dd4e10-7f56-11e8-923b-51f85a2b6163",
+      "name": ""
+    },
+    {
+      "id": "284055a0-7f56-11e8-923b-51f85a2b6163",
+      "name": "ывыывыв"
+    },
+    {
+      "id": "cee8abf0-7f56-11e8-923b-51f85a2b6163",
+      "name": "Россия"
+    },
+    {
+      "id": "cf853a10-7f56-11e8-923b-51f85a2b6163",
+      "name": "Черногория"
+    }
+  ]
+}
